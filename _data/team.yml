@@ -1,0 +1,15 @@
+# Project team members listed below will appear on the /team page
+
+- name: Fabian C. Salgado-Roa
+  role: Evolutionary biologist
+  image: assets/theme/images/me.jpg # Can be external link
+  description: > # Can be Markdown
+    Ph.D. candidate at the Univeristy of Melbourne
+  orcid: 0000-0002-7266-4055
+  #researchgate: researchgate_username
+  googlescholar: https://scholar.google.com/citations?user=Oqq-sgcAAAAJ&hl=es
+  twitter: facasaro
+  #mastodon: https://mastodon.social/@mastodon_username
+  github: github_username
+  email: fcsalgador[at]gmail.com
+
