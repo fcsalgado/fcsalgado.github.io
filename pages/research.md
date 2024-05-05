@@ -38,7 +38,7 @@ permalink: /research/
 
 <div class="container">
   <div class="image">
-    <img src="https://raw.githubusercontent.com/fcsalgado/fcsalgado.github.io/master/assets/theme/images/fig1.png" alt="Image">
+    <img src="https://raw.githubusercontent.com/fcsalgado/fcsalgado.github.io/master/assets/theme/images/black_white.png" alt="Image">
   </div>
   <div class="description">
     <h2>Colour polymorphism in spiders</h2>
