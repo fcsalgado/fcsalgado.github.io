@@ -2,7 +2,9 @@
 layout: home
 title: 
 description: 
-background: /assets/theme/images/landscape.jpg
+
+
+background: /assets/theme/images/landscape.png
 permalink: /
 ---
 
@@ -52,11 +54,12 @@ permalink: /
   </div>
   <div class="description">
     <h2>Fabian C. Salgado-Roa</h2>
-    <p>I’m an evolutionary biologist based at the University of Melbourne. This website serves as a platform where you can explore my research interests, publications, contact information, and more.</p>
+    <p>I’m an evolutionary biologist based at the University of Melbourne. Here, you can explore my research, publications, contact information, and more.</p>
   <div class="social-media">
   <a href="mailto:fcsalgador@gmail.com"><img src="assets/theme/images/mail.png" alt="Mail"></a>
     <a href="https://github.com/fcsalgado"><img src="assets/theme/images/github.png" alt="Github"></a>
     <a href="https://twitter.com/facasaro"><img src="assets/theme/images/twitter.png" alt="Twitter"></a>
+    <a href="https://scholar.google.com/citations?user=Oqq-sgcAAAAJ&hl=en&oi=sra"><img src="assets/theme/images/scholar.png" alt="Scholar"></a>
     <!-- Add more social media links and logos as needed -->
 </div>
   </div>

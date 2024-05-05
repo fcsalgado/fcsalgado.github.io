@@ -1,5 +1,6 @@
 ---
 title: Publications
+background: /assets/theme/images/colours.png
 description: 
 permalink: /publications/
 ---

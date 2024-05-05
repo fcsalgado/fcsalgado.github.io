@@ -100,16 +100,6 @@ Main organizer of the Conference in Evolutionary Biology, “Darwin Day”. Colo
 Editorial reviewer in Journal of Evolutionary Biology (JEB)
 Editorial reviewer in Revista de Biología Tropical (Journal of Tropical Biology).
 
-### OUTREACH 
-
-Editor, Colombian Society of Evolutionary Biology (ColEvol) Bulletin, 2019-Present. https://colevol.github.io/boletin/
-
-Invited contribution, Nature Research Ecology and Evolution Community. A spider helped us reveal how the Andes contribute to the formation and maintenance of Neotropical biodiversity. [Available] (https://natureecoevocommunity.nature.com/users/304790-camilo-salazar/posts/53477-a-spider-help-us-reveal-how-the-andes-contribute-to-the-formation-and-maintenance-of-neotropical-biodiversity)
-
-Invited writer, Colombian Society of Evolutionary Biology (ColEvol) Bulletin, 2016-2019
-
-Executive board of Colombian Society of Evolutionary Biology (ColEvol), 2017-2020.
-
 
 
  
