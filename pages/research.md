@@ -5,13 +5,17 @@ background: /assets/theme/images/aminax_cream.jpg
 permalink: /research/
 ---
 
-# **Research projects**
-
-<title>first</title>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>First</title>
 <style>
   .container {
     display: flex;
+    flex-direction: column;
     align-items: center; /* Center align horizontally */
+    text-align: center; /* Center align text */
   }
   .image {
     flex: 1;
@@ -51,7 +55,9 @@ permalink: /research/
 <style>
   .container {
     display: flex;
+    flex-direction: column;
     align-items: center; /* Center align horizontally */
+    text-align: center; /* Center align text */
   }
   .image {
     flex: 1;
@@ -86,6 +92,3 @@ permalink: /research/
   </div>
 </div>
 </body>
-
-
- 
