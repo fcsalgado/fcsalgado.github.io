@@ -4,6 +4,7 @@ background: /assets/theme/images/colours.png
 description: 
 permalink: /publications/
 ---
+**Salgado-Roa**, F. C., Stuart-Fox, D., White, T. E., & Medina, I. (2024). Colour polymorphism is prevalent on islands but shows no association with range size in web-building spiders. Journal of Evolutionary Biology, 37(11), 1345-1355. [get it here!](https://academic.oup.com/jeb/article/37/11/1345/7760018) 
 
 **Salgado-Roa, F. C.**, Pardo-Diaz, C., Rueda-M, N., Cisneros-Heredia, D. F., Lasso, E., & Salazar, C. (2024). The Andes as a semi-permeable geographical barrier: Genetic connectivity between structured populations in a widespread spider. Molecular Ecology, 00, e17361. [get it here!](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mec.17361) 
 
