@@ -70,7 +70,7 @@ permalink: /
   </div>
   <div class="description">
     <h2>Fabian C. Salgado-Roa</h2>
-    <p>I’m an evolutionary biologist based at the University of Melbourne. Here, you can explore my research, publications, contact information, and more.</p>
+    <p>I’m an evolutionary biologist soon starting as a Stengl-Wyer Scholar at the University of Texas at Austin. Here, you can explore my research, publications, contact information, and more.</p>
     <div class="social-media">
       <a href="mailto:fcsalgador@gmail.com"><img src="assets/theme/images/mail.png" alt="Mail"></a>
       <a href="https://github.com/fcsalgado"><img src="assets/theme/images/github.png" alt="Github"></a>
