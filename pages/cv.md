@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "My CV"
-permalink: /cv/
+title: CV
+background: /assets/theme/images/colours.png
+description: 
+permalink: /CV/
 ---
 
 # My Curriculum Vitae
