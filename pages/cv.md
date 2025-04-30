@@ -1,8 +1,8 @@
 ---
-title: CV
+title: Résumé
 background: /assets/theme/images/colours.png
 description: 
-permalink: /CV/
+permalink: /resume/
 ---
 
 # My Curriculum Vitae
