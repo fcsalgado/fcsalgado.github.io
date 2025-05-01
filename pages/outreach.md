@@ -100,7 +100,7 @@ permalink: /outreach/
         <!-- Subsection 2.1 -->
         <div class="subsection">
           <div class="image">
-            <img src="https://raw.githubusercontent.com/fcsalgado/fcsalgado.github.io/master/assets/theme/images/ep.jpg.png" alt="Acoustic EP">
+            <img src="https://raw.githubusercontent.com/fcsalgado/fcsalgado.github.io/master/assets/theme/images/ep.jpg" alt="Acoustic EP">
           </div>
           <h3>Es mejor no intentar hacer nada</h3>
           <p>During my Ph.D. in Australia, I recorded some acoustic songs that you can check out <a href="https://www.youtube.com/watch?v=uR458iCBIU4" target="_blank">here</a>.</p>
