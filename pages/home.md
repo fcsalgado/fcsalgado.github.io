@@ -64,6 +64,18 @@ permalink: /
 </style>
 <body>
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JCT68QJL6E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JCT68QJL6E');
+</script>
+
+
 <div class="container">
   <div class="image">
     <img src="assets/theme/images/me.jpg" alt="Image">
